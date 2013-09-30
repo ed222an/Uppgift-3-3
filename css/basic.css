@@ -18,13 +18,15 @@
 }
 
 
-/*[href="#maincontent"]
+[href="#maincontent"]
 {
-    display:0px;
-    font-size:0px;
-    padding:0px;
-    margin:0px;
-}*/
+    display: block;
+    font-size: 0px;
+    background: url(pics/coffey.jpg) no-repeat;
+    background-size:680px, 200px;
+    height: 226px;
+    width: 680px;
+}
 
 #menu ul a
 {
